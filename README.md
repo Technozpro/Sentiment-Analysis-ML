@@ -17,7 +17,6 @@ Check The Output - https://sentimentdetectionapp.herokuapp.com/
 
 
 <p align="center">
-<img src="<p align="center">
-<img src="https://photos.google.com/photo/AF1QipM1Lj2g2DNwgdl9fcwHi7Jh19Ffg63JqHPBalnv" alt='sentimnet-analysis' height=300 width=480> </a></p>
-" alt='sentimnet-analysis' height=300 width=480> </a></p>
+<img src="https://photos.app.goo.gl/UU4x1e4YJzQhFgFQ8" alt='sentimnet-analysis' height=300 width=480> </a></p>
+
 
