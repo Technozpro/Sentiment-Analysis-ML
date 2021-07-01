@@ -7,6 +7,9 @@ Sentiment analysis is a machine learning tool that analyzes texts for polarity, 
 learning tools with examples of emotions in text, machines automatically learn how to detect sentiment without human input.
 
 
+Project Link - https://colab.research.google.com/drive/1sN8bNk-H0JyOidRs8KhPWsaR2Prtjz2T?usp=sharing
+
+
 Check The Output - https://sentimentdetectionapp.herokuapp.com/
 
 
