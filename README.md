@@ -4,7 +4,7 @@
 
 
 Sentiment analysis is a machine learning tool that analyzes texts for polarity, from positive to negative. By training machine 
-learning tools with examples of emotions in text, machines automatically learn how to detect sentiment without human input.
+learning tools with examples of emotions in text, machines automatically learn how to detect sentiment without human input. Sentiment Analysis examines the problem of studying texts, like posts and reviews, uploaded by users on microblogging platforms, forums, and electronic businesses, regarding the opinions they have about a product, service, event, person or idea. There are lots of tools that analyze social mentions, user's opinions and the language they use to describe certain products and services to detect sentiment analysis.
 
 
 Dataset - https://drive.google.com/file/d/1dsVXiwAHD2R_h6y3_-x5gvX5XB6LHZJZ/view?usp=sharing
