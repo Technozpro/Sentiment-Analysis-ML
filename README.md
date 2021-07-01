@@ -16,7 +16,7 @@ Project Link - https://colab.research.google.com/drive/1sN8bNk-H0JyOidRs8KhPWsaR
 Check The Output - https://sentimentdetectionapp.herokuapp.com/
 
 
-<p align="center">
-<img src="https://photos.app.goo.gl/UU4x1e4YJzQhFgFQ8" alt='sentimnet-analysis' height=300 width=480> </a></p>
+<p align="left">
+<img src="https://i.im.ge/2021/07/01/uhd3c.png" alt='sentimnet-analysis' height=300 width=480> </a></p>
 
 
