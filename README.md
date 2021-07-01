@@ -18,6 +18,6 @@ Check The Output - https://sentimentdetectionapp.herokuapp.com/
 
 <p align="center">
 <img src="<p align="center">
-<img src="https://www.kdnuggets.com/images/sentiment-fig-1-689.jpg" alt='sentimnet-analysis' height=300 width=480> </a></p>
+<img src="https://ibb.co/RHBMjD6" alt='sentimnet-analysis' height=300 width=480> </a></p>
 " alt='sentimnet-analysis' height=300 width=480> </a></p>
 
