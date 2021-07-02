@@ -9,7 +9,6 @@ learning tools with examples of emotions in text, machines automatically learn h
 
 Dataset - https://drive.google.com/file/d/1dsVXiwAHD2R_h6y3_-x5gvX5XB6LHZJZ/view?usp=sharing
 
-
 Project Link - https://colab.research.google.com/drive/1sN8bNk-H0JyOidRs8KhPWsaR2Prtjz2T?usp=sharing
 
 
